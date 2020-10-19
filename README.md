@@ -1,3 +1,26 @@
+## seed_smartactuator_sdk (melodic) - 0.0.5-1
+
+The packages in the `seed_smartactuator_sdk` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic seed_smartactuator_sdk` on `Mon, 19 Oct 2020 08:00:55 -0000`
+
+The `seed_smartactuator_sdk` package was released.
+
+Version of package(s) in repository `seed_smartactuator_sdk`:
+
+- upstream repository: https://github.com/seed-solutions/seed_smartactuator_sdk.git
+- release repository: https://github.com/seed-solutions/seed_smartactuator_sdk-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.4-1`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## seed_smartactuator_sdk (melodic) - 0.0.4-1
 
 The packages in the `seed_smartactuator_sdk` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic seed_smartactuator_sdk --edit` on `Mon, 04 Nov 2019 07:04:15 -0000`
