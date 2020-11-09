@@ -1,0 +1,12 @@
+Source: ros-kinetic-seed-smartactuator-sdk
+Section: misc
+Priority: optional
+Maintainer: Yasuto Shiigi <y.shiigi@thk.co.jp>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-seed-smartactuator-sdk
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev
+Description: The seed_smartactuator_sdk package
